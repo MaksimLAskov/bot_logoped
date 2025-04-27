@@ -1,0 +1,127 @@
+{"timestamp":"2025-04-23T11:24:38.076Z","type":"INCOMING_MSG","message":{"chatId":925404988,"userId":925404988,"messageId":3,"text":"/start"}}
+{"timestamp":"2025-04-23T11:24:38.081Z","type":"COMMAND_START","message":{"chatId":925404988,"userId":925404988,"messageId":3,"text":"/start"}}
+{"timestamp":"2025-04-23T11:24:38.180Z","type":"BOT_REPLY","message":{"chatId":925404988,"userId":8061321775,"messageId":4,"text":"Привет, Надежда! Я бот для вопросов. Напиши мне свой вопрос, и я передам его администратору.","replyTo":3}}
+{"timestamp":"2025-04-23T11:24:44.798Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":5,"text":"Задать вопрос"}}
+{"timestamp":"2025-04-23T11:24:44.959Z","type":"BOT_REPLY","message":{"chatId":643138377,"userId":8061321775,"messageId":6,"text":"Пожалуйста, напишите ваш вопрос:","replyTo":5}}
+{"timestamp":"2025-04-23T11:24:45.149Z","type":"INCOMING_MSG","message":{"chatId":925404988,"userId":925404988,"messageId":7,"text":"Какашка"}}
+{"timestamp":"2025-04-23T11:24:45.358Z","type":"BOT_REPLY","message":{"chatId":925404988,"userId":8061321775,"messageId":8,"text":"Ваш вопрос был отправлен администратору. Ожидайте ответа.","replyTo":7}}
+{"timestamp":"2025-04-23T11:25:43.801Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":9,"text":"/start"}}
+{"timestamp":"2025-04-23T11:25:43.805Z","type":"COMMAND_START","message":{"chatId":643138377,"userId":643138377,"messageId":9,"text":"/start"}}
+{"timestamp":"2025-04-23T11:25:43.891Z","type":"BOT_REPLY","message":{"chatId":643138377,"userId":8061321775,"messageId":10,"text":"Привет, Барон! Я бот для вопросов. Напиши мне свой вопрос, и я передам его администратору.","replyTo":9}}
+{"timestamp":"2025-04-23T11:25:48.322Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":11,"text":"Задать вопрос"}}
+{"timestamp":"2025-04-23T11:25:48.402Z","type":"BOT_REPLY","message":{"chatId":643138377,"userId":8061321775,"messageId":12,"text":"Пожалуйста, напишите ваш вопрос:","replyTo":11}}
+{"timestamp":"2025-04-23T11:25:53.280Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":13,"text":"Ты меня любишь?"}}
+{"timestamp":"2025-04-23T11:25:53.359Z","type":"ADMIN_NOTIFICATION","message":{"chatId":925404988,"userId":8061321775,"messageId":14,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nТы меня любишь?","originalMessage":{"userId":643138377,"messageId":13,"text":"Ты меня любишь?"}}}
+{"timestamp":"2025-04-23T11:25:53.462Z","type":"BOT_REPLY","message":{"chatId":643138377,"userId":8061321775,"messageId":15,"text":"Ваш вопрос был отправлен администратору. Ожидайте ответа.","replyTo":13}}
+{"timestamp":"2025-04-23T11:26:02.605Z","type":"CALLBACK_QUERY","message":{"chatId":925404988,"userId":8061321775,"messageId":14,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nТы меня любишь?","callbackData":"reply_643138377_13","from":{"id":925404988,"is_bot":false,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","language_code":"ru","is_premium":true}}}
+{"timestamp":"2025-04-23T11:26:02.718Z","type":"ADMIN_REPLY_PROMPT","message":{"chatId":925404988,"userId":8061321775,"messageId":16,"text":"Отправьте ответ на вопрос пользователя (ID: 643138377):","originalMessage":{"userId":"643138377","messageId":"13"}}}
+{"timestamp":"2025-04-23T11:26:05.420Z","type":"INCOMING_MSG","message":{"chatId":925404988,"userId":925404988,"messageId":17,"text":"Нет"}}
+{"timestamp":"2025-04-23T11:27:03.714Z","type":"CALLBACK_QUERY","message":{"chatId":925404988,"userId":8061321775,"messageId":14,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nТы меня любишь?","callbackData":"reply_643138377_13","from":{"id":925404988,"is_bot":false,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","language_code":"ru","is_premium":true}}}
+{"timestamp":"2025-04-23T11:27:03.797Z","type":"ADMIN_REPLY_PROMPT","message":{"chatId":925404988,"userId":8061321775,"messageId":18,"text":"Отправьте ответ на вопрос пользователя (ID: 643138377):","originalMessage":{"userId":"643138377","messageId":"13"}}}
+{"timestamp":"2025-04-23T11:27:12.321Z","type":"INCOMING_MSG","message":{"chatId":925404988,"userId":925404988,"messageId":19,"text":"Абараи кл окиаилаь окра л"}}
+{"timestamp":"2025-04-23T11:30:49.200Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":20,"text":"/start"}}
+{"timestamp":"2025-04-23T11:30:49.204Z","type":"COMMAND_START","message":{"chatId":643138377,"userId":643138377,"messageId":20,"text":"/start"}}
+{"timestamp":"2025-04-23T11:30:49.302Z","type":"BOT_REPLY","message":{"chatId":643138377,"userId":8061321775,"messageId":21,"text":"Привет, Барон! Я бот для вопросов. Напиши мне свой вопрос, и я передам его администратору.","replyTo":20}}
+{"timestamp":"2025-04-23T11:30:50.982Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":22,"text":"Задать вопрос"}}
+{"timestamp":"2025-04-23T11:31:01.722Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":23,"text":"1"}}
+{"timestamp":"2025-04-23T11:31:19.869Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":24,"text":"/start"}}
+{"timestamp":"2025-04-23T11:31:19.870Z","type":"COMMAND_START","message":{"chatId":643138377,"userId":643138377,"messageId":24,"text":"/start"}}
+{"timestamp":"2025-04-23T11:31:19.962Z","type":"BOT_REPLY","message":{"chatId":643138377,"userId":8061321775,"messageId":25,"text":"Привет, Барон! Я бот для вопросов. Напиши мне свой вопрос, и я передам его администратору.","replyTo":24}}
+{"timestamp":"2025-04-23T11:31:20.877Z","type":"INCOMING_MSG","message":{"chatId":643138377,"userId":643138377,"messageId":26,"text":"Задать вопрос"}}
+{"timestamp":"2025-04-23T11:52:01.258Z","type":"BOT_STARTED","username":"LogoPed12_bot","id":8061321775}
+{"timestamp":"2025-04-23T11:52:19.075Z","type":"INCOMING_MESSAGE","messageId":27,"chatId":643138377,"userId":643138377,"text":"/start","isAdmin":true}
+{"timestamp":"2025-04-23T11:52:19.076Z","type":"COMMAND_START","userId":643138377,"chatId":643138377,"userName":"Барон"}
+{"timestamp":"2025-04-23T11:52:19.180Z","type":"welcome_message","messageId":28,"chatId":643138377}
+{"timestamp":"2025-04-23T11:52:20.810Z","type":"INCOMING_MESSAGE","messageId":29,"chatId":643138377,"userId":643138377,"text":"Задать вопрос","isAdmin":true}
+{"timestamp":"2025-04-23T11:52:48.546Z","type":"INCOMING_MESSAGE","messageId":30,"chatId":925404988,"userId":925404988,"text":"Задать вопрос","isAdmin":false}
+{"timestamp":"2025-04-23T11:52:48.714Z","type":"question_prompt","messageId":31,"chatId":925404988}
+{"timestamp":"2025-04-23T11:53:03.736Z","type":"INCOMING_MESSAGE","messageId":32,"chatId":925404988,"userId":925404988,"text":"Сколько раз ты еще меня обосрешь?","isAdmin":false}
+{"timestamp":"2025-04-23T11:53:03.846Z","type":"question_received","messageId":34,"chatId":925404988}
+{"timestamp":"2025-04-23T11:53:03.847Z","type":"QUESTION_FORWARDED","adminMessageId":33,"userMessageId":32,"userChatId":925404988}
+{"timestamp":"2025-04-23T11:53:12.213Z","type":"CALLBACK_QUERY","data":"reply_925404988_32","from":643138377,"message":{"message_id":33,"from":{"id":8061321775,"is_bot":true,"first_name":"LogoPed","username":"LogoPed12_bot"},"chat":{"id":643138377,"first_name":"Барон","username":"baron_sigma","type":"private"},"date":1745409184,"text":"Пользователь Надежда (ID: 925404988) задал вопрос:\n\nСколько раз ты еще меня обосрешь?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_925404988_32"}]]}}}
+{"timestamp":"2025-04-23T11:53:12.291Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":35,"userChatId":"925404988","userMessageId":"32"}
+{"timestamp":"2025-04-23T11:53:15.500Z","type":"INCOMING_MESSAGE","messageId":36,"chatId":643138377,"userId":643138377,"text":"0","isAdmin":true}
+{"timestamp":"2025-04-23T11:59:23.272Z","type":"CALLBACK_QUERY","data":"reply_925404988_32","from":643138377,"message":{"message_id":33,"from":{"id":8061321775,"is_bot":true,"first_name":"LogoPed","username":"LogoPed12_bot"},"chat":{"id":643138377,"first_name":"Барон","username":"baron_sigma","type":"private"},"date":1745409184,"text":"Пользователь Надежда (ID: 925404988) задал вопрос:\n\nСколько раз ты еще меня обосрешь?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_925404988_32"}]]}}}
+{"timestamp":"2025-04-23T11:59:23.440Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":37,"userChatId":"925404988","userMessageId":"32"}
+{"timestamp":"2025-04-23T11:59:34.664Z","type":"CALLBACK_QUERY","data":"reply_925404988_32","from":643138377,"message":{"message_id":33,"from":{"id":8061321775,"is_bot":true,"first_name":"LogoPed","username":"LogoPed12_bot"},"chat":{"id":643138377,"first_name":"Барон","username":"baron_sigma","type":"private"},"date":1745409184,"text":"Пользователь Надежда (ID: 925404988) задал вопрос:\n\nСколько раз ты еще меня обосрешь?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_925404988_32"}]]}}}
+{"timestamp":"2025-04-23T11:59:34.805Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":38,"userChatId":"925404988","userMessageId":"32"}
+{"timestamp":"2025-04-23T11:59:36.234Z","type":"INCOMING_MESSAGE","messageId":39,"chatId":643138377,"userId":643138377,"text":"нисколько","isAdmin":true}
+{"timestamp":"2025-04-23T11:59:53.193Z","type":"INCOMING_MESSAGE","messageId":40,"chatId":643138377,"userId":643138377,"text":"нисколько","isAdmin":true}
+{"timestamp":"2025-04-23T11:59:53.194Z","type":"ADMIN_REPLY_ATTEMPT","adminMessageId":40,"replyToMessageId":38,"replyText":"Отправьте ответ на вопрос пользователя (ID: 925404988):"}
+{"timestamp":"2025-04-23T11:59:53.298Z","type":"ANSWER_DELIVERED","userMessageId":41,"userChatId":"925404988","adminMessageId":40}
+{"timestamp":"2025-04-23T12:00:36.552Z","type":"INCOMING_MESSAGE","messageId":42,"chatId":925404988,"userId":925404988,"text":"А","isAdmin":false}
+{"timestamp":"2025-04-23T12:00:36.642Z","type":"question_received","messageId":43,"chatId":925404988}
+{"timestamp":"2025-04-23T12:00:36.646Z","type":"QUESTION_FORWARDED","adminMessageId":44,"userMessageId":42,"userChatId":925404988}
+{"timestamp":"2025-04-23T12:00:40.774Z","type":"CALLBACK_QUERY","data":"reply_925404988_42","from":643138377,"message":{"message_id":44,"from":{"id":8061321775,"is_bot":true,"first_name":"LogoPed","username":"LogoPed12_bot"},"chat":{"id":643138377,"first_name":"Барон","username":"baron_sigma","type":"private"},"date":1745409637,"text":"Пользователь Надежда (ID: 925404988) задал вопрос:\n\nА","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_925404988_42"}]]}}}
+{"timestamp":"2025-04-23T12:00:40.861Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":45,"userChatId":"925404988","userMessageId":"42"}
+{"timestamp":"2025-04-23T12:00:47.383Z","type":"INCOMING_MESSAGE","messageId":46,"chatId":643138377,"userId":643138377,"text":"❤️","isAdmin":true}
+{"timestamp":"2025-04-23T12:00:47.384Z","type":"ADMIN_REPLY_ATTEMPT","adminMessageId":46,"replyToMessageId":45,"replyText":"Отправьте ответ на вопрос пользователя (ID: 925404988):"}
+{"timestamp":"2025-04-23T12:00:47.543Z","type":"ANSWER_DELIVERED","userMessageId":47,"userChatId":"925404988","adminMessageId":46}
+{"timestamp":"2025-04-23T12:04:37.285Z","type":"BOT_STARTED","username":"LogoPed12_bot","id":8061321775}
+{"timestamp":"2025-04-23T12:05:24.146Z","type":"INCOMING_MESSAGE","messageId":48,"chatId":925404988,"userId":925404988,"text":"Жопу попу вытираем? Или нахуй посылаем?","isAdmin":false}
+{"timestamp":"2025-04-23T12:05:24.249Z","type":"QUESTION_FORWARDED","adminMessageId":49,"userMessageId":48,"userChatId":925404988}
+{"timestamp":"2025-04-23T12:05:24.252Z","type":"question_received","messageId":50,"chatId":925404988}
+{"timestamp":"2025-04-23T12:05:31.654Z","type":"CALLBACK_QUERY","data":"reply_925404988_48","from":643138377,"message":{"message_id":49,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":643138377,"first_name":"Барон","username":"baron_sigma","type":"private"},"date":1745409925,"text":"Пользователь Надежда (ID: 925404988) задал вопрос:\n\nЖопу попу вытираем? Или нахуй посылаем?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_925404988_48"}]]}}}
+{"timestamp":"2025-04-23T12:05:31.725Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":51,"userChatId":"925404988","userMessageId":"48"}
+{"timestamp":"2025-04-23T12:05:39.684Z","type":"INCOMING_MESSAGE","messageId":52,"chatId":643138377,"userId":643138377,"text":"я хочу тебя","isAdmin":true}
+{"timestamp":"2025-04-23T12:05:39.685Z","type":"ADMIN_REPLY_ATTEMPT","adminMessageId":52,"replyToMessageId":51,"replyText":"Отправьте ответ на вопрос пользователя (ID: 925404988):"}
+{"timestamp":"2025-04-23T12:05:39.899Z","type":"ANSWER_DELIVERED","userMessageId":53,"userChatId":"925404988","adminMessageId":52}
+{"timestamp":"2025-04-23T12:05:51.180Z","type":"INCOMING_MESSAGE","messageId":54,"chatId":643138377,"userId":643138377,"text":"я хочу тебя трахнуть","isAdmin":true}
+{"timestamp":"2025-04-23T12:05:51.181Z","type":"ADMIN_REPLY_ATTEMPT","adminMessageId":54,"replyToMessageId":51,"replyText":"Отправьте ответ на вопрос пользователя (ID: 925404988):"}
+{"timestamp":"2025-04-23T12:05:51.270Z","type":"ANSWER_DELIVERED","userMessageId":55,"userChatId":"925404988","adminMessageId":54}
+{"timestamp":"2025-04-23T12:06:10.452Z","type":"INCOMING_MESSAGE","messageId":56,"chatId":925404988,"userId":925404988,"text":"Удачи!","isAdmin":false}
+{"timestamp":"2025-04-23T12:06:10.559Z","type":"question_received","messageId":58,"chatId":925404988}
+{"timestamp":"2025-04-23T12:06:10.561Z","type":"QUESTION_FORWARDED","adminMessageId":57,"userMessageId":56,"userChatId":925404988}
+{"timestamp":"2025-04-23T12:07:42.595Z","type":"BOT_STARTED","username":"LogoPed12_bot","id":8061321775}
+{"timestamp":"2025-04-23T12:08:15.272Z","type":"BOT_STARTED","username":"LogoPed12_bot","id":8061321775}
+{"timestamp":"2025-04-23T12:08:22.749Z","type":"INCOMING_MESSAGE","messageId":59,"chatId":643138377,"userId":643138377,"text":"/start","isAdmin":false}
+{"timestamp":"2025-04-23T12:08:22.750Z","type":"COMMAND_START","userId":643138377,"chatId":643138377,"userName":"Барон"}
+{"timestamp":"2025-04-23T12:08:22.858Z","type":"welcome_message","messageId":60,"chatId":643138377}
+{"timestamp":"2025-04-23T12:08:35.615Z","type":"INCOMING_MESSAGE","messageId":61,"chatId":643138377,"userId":643138377,"text":"Задать вопрос","isAdmin":false}
+{"timestamp":"2025-04-23T12:08:35.693Z","type":"question_prompt","messageId":62,"chatId":643138377}
+{"timestamp":"2025-04-23T12:09:31.460Z","type":"INCOMING_MESSAGE","messageId":63,"chatId":643138377,"userId":643138377,"text":"Здравствуйте, я Максим, и я очень люблю нашего лучше логопеда нашей страны, я ее парень, и я могу сказать что она очень сексуальная и очень красивая, а еще у нее очень доброе сердце и попа персиком, а сиси кокосики. Меня простит любовь всей моей жизни?","isAdmin":false}
+{"timestamp":"2025-04-23T12:09:31.604Z","type":"question_received","messageId":64,"chatId":643138377}
+{"timestamp":"2025-04-23T12:09:31.693Z","type":"QUESTION_FORWARDED","adminMessageId":65,"userMessageId":63,"userChatId":643138377}
+{"timestamp":"2025-04-23T12:09:46.804Z","type":"CALLBACK_QUERY","data":"reply_643138377_63","from":925404988,"message":{"message_id":65,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":925404988,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","type":"private"},"date":1745410172,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nЗдравствуйте, я Максим, и я очень люблю нашего лучше логопеда нашей страны, я ее парень, и я могу сказать что она очень сексуальная и очень красивая, а еще у нее очень доброе сердце и попа персиком, а сиси кокосики. Меня простит любовь всей моей жизни?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_643138377_63"}]]}}}
+{"timestamp":"2025-04-23T12:09:46.902Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":66,"userChatId":"643138377","userMessageId":"63"}
+{"timestamp":"2025-04-23T12:10:05.536Z","type":"INCOMING_MESSAGE","messageId":67,"chatId":925404988,"userId":925404988,"text":"Нет, потому что он зассал извиниться перед Ильей","isAdmin":true}
+{"timestamp":"2025-04-23T12:11:34.615Z","type":"CALLBACK_QUERY","data":"reply_643138377_63","from":925404988,"message":{"message_id":65,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":925404988,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","type":"private"},"date":1745410172,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nЗдравствуйте, я Максим, и я очень люблю нашего лучше логопеда нашей страны, я ее парень, и я могу сказать что она очень сексуальная и очень красивая, а еще у нее очень доброе сердце и попа персиком, а сиси кокосики. Меня простит любовь всей моей жизни?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_643138377_63"}]]}}}
+{"timestamp":"2025-04-23T12:11:34.738Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":68,"userChatId":"643138377","userMessageId":"63"}
+{"timestamp":"2025-04-23T12:11:38.425Z","type":"INCOMING_MESSAGE","messageId":69,"chatId":925404988,"userId":925404988,"text":"Не","isAdmin":true}
+{"timestamp":"2025-04-23T12:13:02.942Z","type":"BOT_STARTED","username":"LogoPed12_bot","id":8061321775}
+{"timestamp":"2025-04-23T12:14:31.523Z","type":"CALLBACK_QUERY","data":"reply_643138377_63","from":925404988,"message":{"message_id":65,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":925404988,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","type":"private"},"date":1745410172,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nЗдравствуйте, я Максим, и я очень люблю нашего лучше логопеда нашей страны, я ее парень, и я могу сказать что она очень сексуальная и очень красивая, а еще у нее очень доброе сердце и попа персиком, а сиси кокосики. Меня простит любовь всей моей жизни?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_643138377_63"}]]}}}
+{"timestamp":"2025-04-23T12:14:31.602Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":70,"userChatId":"643138377","userMessageId":"63"}
+{"timestamp":"2025-04-23T12:14:39.540Z","type":"INCOMING_MESSAGE","messageId":71,"chatId":925404988,"userId":925404988,"text":"Да идите нахуй","isAdmin":true}
+{"timestamp":"2025-04-24T15:02:41.615Z","type":"INCOMING_MESSAGE","messageId":72,"chatId":643138377,"userId":643138377,"text":"Задать вопрос","isAdmin":false}
+{"timestamp":"2025-04-24T15:02:41.648Z","type":"BOT_STARTED","username":"LogoPed12_bot","id":8061321775}
+{"timestamp":"2025-04-24T15:02:41.772Z","type":"question_prompt","messageId":73,"chatId":643138377}
+{"timestamp":"2025-04-24T15:02:46.595Z","type":"INCOMING_MESSAGE","messageId":74,"chatId":643138377,"userId":643138377,"text":"/start","isAdmin":false}
+{"timestamp":"2025-04-24T15:02:46.596Z","type":"COMMAND_START","userId":643138377,"chatId":643138377,"userName":"Барон"}
+{"timestamp":"2025-04-24T15:02:46.669Z","type":"welcome_message","messageId":75,"chatId":643138377}
+{"timestamp":"2025-04-24T15:04:51.803Z","type":"INCOMING_MESSAGE","messageId":76,"chatId":643138377,"userId":643138377,"text":"Задать вопрос","isAdmin":false}
+{"timestamp":"2025-04-24T15:04:51.885Z","type":"question_prompt","messageId":77,"chatId":643138377}
+{"timestamp":"2025-04-27T10:32:32.903Z","type":"BOT_STARTED","username":"LogoPed12_bot","id":8061321775}
+{"timestamp":"2025-04-27T10:32:54.017Z","type":"INCOMING_MESSAGE","messageId":78,"chatId":643138377,"userId":643138377,"text":"Задать вопрос","isAdmin":false}
+{"timestamp":"2025-04-27T10:32:54.194Z","type":"question_prompt","messageId":79,"chatId":643138377}
+{"timestamp":"2025-04-27T10:32:59.565Z","type":"INCOMING_MESSAGE","messageId":80,"chatId":643138377,"userId":643138377,"text":"Пришло уведомление?","isAdmin":false}
+{"timestamp":"2025-04-27T10:32:59.660Z","type":"question_received","messageId":81,"chatId":643138377}
+{"timestamp":"2025-04-27T10:32:59.665Z","type":"QUESTION_FORWARDED","adminMessageId":82,"userMessageId":80,"userChatId":643138377}
+{"timestamp":"2025-04-27T10:33:49.917Z","type":"CALLBACK_QUERY","data":"reply_643138377_80","from":925404988,"message":{"message_id":82,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":925404988,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","type":"private"},"date":1745749981,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nПришло уведомление?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_643138377_80"}]]}}}
+{"timestamp":"2025-04-27T10:33:49.997Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":83,"userChatId":"643138377","userMessageId":"80"}
+{"timestamp":"2025-04-27T10:33:54.688Z","type":"INCOMING_MESSAGE","messageId":84,"chatId":925404988,"userId":925404988,"text":"Да","isAdmin":true}
+{"timestamp":"2025-04-27T10:44:56.396Z","type":"CALLBACK_QUERY","data":"reply_643138377_80","from":925404988,"message":{"message_id":82,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":925404988,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","type":"private"},"date":1745749981,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nПришло уведомление?","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_643138377_80"}]]}}}
+{"timestamp":"2025-04-27T10:44:56.550Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":85,"userChatId":"643138377","userMessageId":"80"}
+{"timestamp":"2025-04-27T10:45:02.435Z","type":"INCOMING_MESSAGE","messageId":86,"chatId":925404988,"userId":925404988,"text":"Оаоа","isAdmin":true}
+{"timestamp":"2025-04-27T10:45:58.189Z","type":"INCOMING_MESSAGE","messageId":87,"chatId":643138377,"userId":643138377,"text":"адада","isAdmin":false}
+{"timestamp":"2025-04-27T10:45:58.264Z","type":"question_received","messageId":88,"chatId":643138377}
+{"timestamp":"2025-04-27T10:45:58.273Z","type":"QUESTION_FORWARDED","adminMessageId":89,"userMessageId":87,"userChatId":643138377}
+{"timestamp":"2025-04-27T10:46:09.314Z","type":"CALLBACK_QUERY","data":"reply_643138377_87","from":925404988,"message":{"message_id":89,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":925404988,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","type":"private"},"date":1745750759,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nадада","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_643138377_87"}]]}}}
+{"timestamp":"2025-04-27T10:46:09.423Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":90,"userChatId":"643138377","userMessageId":"87"}
+{"timestamp":"2025-04-27T10:46:19.435Z","type":"INCOMING_MESSAGE","messageId":91,"chatId":925404988,"userId":925404988,"text":"Приходит ответ?","isAdmin":true}
+{"timestamp":"2025-04-27T10:47:08.700Z","type":"CALLBACK_QUERY","data":"reply_643138377_87","from":925404988,"message":{"message_id":89,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":925404988,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","type":"private"},"date":1745750759,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nадада","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_643138377_87"}]]}}}
+{"timestamp":"2025-04-27T10:47:08.779Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":92,"userChatId":"643138377","userMessageId":"87"}
+{"timestamp":"2025-04-27T10:48:19.083Z","type":"CALLBACK_QUERY","data":"reply_643138377_87","from":925404988,"message":{"message_id":89,"from":{"id":8061321775,"is_bot":true,"first_name":"Вопрос -> Ответ","username":"LogoPed12_bot"},"chat":{"id":925404988,"first_name":"Надежда","last_name":"Архипова","username":"pogodachepyxa","type":"private"},"date":1745750759,"text":"Пользователь Барон (ID: 643138377) задал вопрос:\n\nадада","reply_markup":{"inline_keyboard":[[{"text":"Ответить","callback_data":"reply_643138377_87"}]]}}}
+{"timestamp":"2025-04-27T10:48:19.162Z","type":"ADMIN_REPLY_PROMPT","adminMessageId":93,"userChatId":"643138377","userMessageId":"87"}
+{"timestamp":"2025-04-27T10:48:37.555Z","type":"INCOMING_MESSAGE","messageId":94,"chatId":925404988,"userId":925404988,"text":"Алалал","isAdmin":true}
+{"timestamp":"2025-04-27T10:48:37.558Z","type":"ADMIN_REPLY_ATTEMPT","adminMessageId":94,"replyToMessageId":93,"replyText":"Отправьте ответ на вопрос пользователя (ID: 643138377):"}
+{"timestamp":"2025-04-27T10:48:37.664Z","type":"ANSWER_DELIVERED","userMessageId":95,"userChatId":"643138377","adminMessageId":94}
