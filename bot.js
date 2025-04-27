@@ -68,7 +68,7 @@ bot.on('message', (msg) => {
     logEvent('INCOMING_MESSAGE', {
         messageId: msg.message_id,
         chatId: msg.chat.id,
-        userId: msg.from?.id,
+        userId: msg.from.id,
         text: msg.text,
         isAdmin: msg.chat.id.toString() === ADMIN_ID.toString()
     });
